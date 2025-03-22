@@ -9,4 +9,4 @@ BIO
 - 👯 I’m looking forward to collaborate on **Open Source** projects
 - 💬 Ping me about memory allocation errors, SEGFAULTS and everything in between
 - 📫 How to reach me: stefan.calmac@stud.acs.upb.ro
-- ⚡ Fun fact: I'm a big bookworm in my free time
+- ⚡ Fun fact: I would like playing basketball with you
